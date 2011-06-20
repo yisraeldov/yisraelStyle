@@ -2,6 +2,8 @@
 
 /**
 * This is an example of my coding style
+*
+* This class really doesn't do any thing
 */
 class Style
 {
